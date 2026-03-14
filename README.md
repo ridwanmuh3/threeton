@@ -70,7 +70,6 @@ my-app/
 
 - Add capabilities for choosing different template framework (e.g: echo, gin, etc)
 - Add capabilities for choosing different databases (e.g: MySQL, SQLite, MongoDB)
--
 
 ## License
 
