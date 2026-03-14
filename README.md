@@ -1,4 +1,3 @@
-```
          _____ _                   _
         |_   _| |                 | |
           | | | |__  _ __ ___  ___| |_ ___  _ __
@@ -6,7 +5,6 @@
           | | | | | | | |  __/  __/ || (_) | | | |
           \_/ |_| |_|_|  \___|\___|\__\___/|_| |_|
                     Develop by ridwanmuh3
-```
 
 A Rust-based CLI tool for scaffolding Go projects with a clean architecture template.
 
