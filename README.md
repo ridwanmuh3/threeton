@@ -59,12 +59,18 @@ my-app/
 
 ## Template Stack
 
-- **HTTP**: [Fiber v3](https://github.com/gofiber/fiber)
+- **Framework**: [Fiber v3](https://github.com/gofiber/fiber)
 - **ORM**: [GORM](https://gorm.io/) with PostgreSQL
 - **Config**: [Viper](https://github.com/spf13/viper)
 - **Logging**: [Zap](https://github.com/uber-go/zap)
 - **Validation**: [go-playground/validator](https://github.com/go-playground/validator)
 - **JSON**: [Sonic](https://github.com/bytedance/sonic)
+
+## Future Works
+
+- Add capabilities for choosing different template framework (e.g: echo, gin, etc)
+- Add capabilities for choosing different databases (e.g: MySQL, SQLite, MongoDB)
+-
 
 ## License
 
